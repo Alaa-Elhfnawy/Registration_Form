@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270092751962",
+    "project_id": "login-form-6f569",
+    "storage_bucket": "login-form-6f569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270092751962:android:a255acc33afbe41aa2f463",
+        "android_client_info": {
+          "package_name": "com.example.login_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qFd9YmJUjYLthASHbZEZ-Yd0Cs5vPbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
